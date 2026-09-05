@@ -1,0 +1,83 @@
+.Header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  justify-content: space-between;
+  background-color: aliceblue;
+  margin: 0px 0px 50px 0px ;
+  padding: 0px;
+
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  z-index: 1000;
+
+
+
+
+}
+
+
+.Header ul{
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  list-style: none;
+
+}
+
+.Header button{
+  height: 40px;
+  width: 120px;
+  margin-right: 50px;
+
+
+  border: 1px solid white;
+  border-radius: 4px;
+ font-size: 1rem;
+ padding: 5px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ color: white;
+
+
+ background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+
+ 
+
+
+}
+.Header h1{
+  font-size: 2rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-left: 50px;
+  color: white;
+  
+}
+
+.Header li a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+
+}
+
+.Header li a:hover{
+    text-decoration: underline;
+    color: rgb(200, 255, 0);
+    font-size: 1.1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 0.5s;
+    
+}

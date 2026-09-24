@@ -16,15 +16,13 @@ https://github.com/Rumi-Parvez/Plants-Trees
 
 ---
 
-## 📸 Project Screenshot
-
-Add a screenshot of the project to the repository and use it here:
-
-```md
-![Plants & Trees Website Screenshot](./screenshot.png)
-```
-
-The screenshot should showcase the main interface, navigation, and plant cards.
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/g2yT6MNh/4.png" 
+    alt="Plant & Trees Exploration Website banner" 
+    width="100%" 
+  />
+</p>
 
 ---
 
